@@ -1,0 +1,15 @@
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\bin\Debug\net6.0\Football.exe
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\bin\Debug\net6.0\Football.deps.json
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\bin\Debug\net6.0\Football.runtimeconfig.json
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\bin\Debug\net6.0\Football.dll
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\bin\Debug\net6.0\Football.pdb
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\Football.csproj.AssemblyReference.cache
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\Football.AssemblyInfoInputs.cache
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\Football.AssemblyInfo.cs
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\Football.csproj.CoreCompileInputs.cache
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\Football.dll
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\refint\Football.dll
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\Football.pdb
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\Football.genruntimeconfig.cache
+D:\Нова папка (2)\Education\university\PU\sem_2\opp_2_c#\Football\Football\obj\Debug\net6.0\ref\Football.dll

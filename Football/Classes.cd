@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Football.Coach">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Football.Coach.TeamMeetingDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Coach.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Football.Coach.ChangePlayer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Coach.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEAAAAAAAAAEAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Coach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.Defender">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Football.Defender.SavesGoalDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Defender.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABBAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Defender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.FootballPlayer">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAEAAEAEAAAAAAAAAAAAAAMAAAAAAAAAA=</HashCode>
+      <FileName>FootballPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.Game" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Football.Game.GoalScoredDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Football.Game.DrawResultDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Football.Game.WinnerDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAADAAAAAEAACDAAAAJgAAACAAAAAAEAAAYAg=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.Goal" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAEAAAAQAAAQA=</HashCode>
+      <FileName>Goal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.GoalKeeper">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoalKeeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.Midfield">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Midfield.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.Person" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAQAAEAEAAAAYAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.Referee" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Referee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.Striker">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Striker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Football.Team" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAEgBAAAAQAAgggACAAAggAAAIAAAA=</HashCode>
+      <FileName>Team.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
